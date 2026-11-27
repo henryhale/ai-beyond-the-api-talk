@@ -4,15 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "slidev --open",
-    "build": "slidev build",
-    "export": "slidev export"
+    "build": "slidev build"
   },
   "dependencies": {
     "@slidev/cli": "^53.1.0",
     "@slidev/theme-default": "^0.25.0"
   },
   "devDependencies": {
-    "playwright-chromium": "^1.65.1",
     "qrcode": "^1.5.4"
   },
   "packageManager": "pnpm@12.18.0"
