@@ -1,6 +1,7 @@
 ---
 theme: default
 title: Beyond the API
+favicon: /favicon.png
 info: |
   ## Beyond the API
   Engineering AI Systems from First Principles
